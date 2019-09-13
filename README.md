@@ -45,6 +45,9 @@ We recommend that you follow and support these people if you are looking for sim
 ### Testing
 - [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
 
+### Logging
+- [pino](https://github.com/pinojs/pino) - Very low overhead Node.js logger, inspired by Bunyan.
+
 ### Others
 
 - [premove](https://github.com/lukeed/premove) - A tiny (247B) utility to remove items recursively
