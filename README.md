@@ -41,6 +41,8 @@ If there is a flag this probably mean you may consider looking for the native wa
 - [httpie](https://github.com/lukeed/httpie#readme) - A Node.js HTTP client as easy as pie!
 - [sirv](https://github.com/lukeed/sirv#readme) - An optimized middleware & CLI application for serving static files~!
 - [fetch-github-repositories](https://github.com/fraxken/fetch-github-repositories) - Fetch github repositories for a given user (or organization)
+- [matchit](https://github.com/lukeed/matchit) - Quickly parse & match URLs
+- [zup](https://github.com/mscdex/zup) - A simple, fast template engine for node.
 
 You may want to take a look at these organizations, who produce quality packages and middleware for HTTP Server:
 - https://github.com/hapijs
@@ -66,12 +68,12 @@ You may want to take a look at these organizations, who produce quality packages
 
 ### Others
 
+- [dotenv](https://github.com/motdotla/dotenv#readme) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
 - [@zeit/git-hooks](https://github.com/zeit/git-hooks) - No nonsense Git hook management with 0 dep.
 - [rfdc](https://github.com/davidmarkclements/rfdc#readme) - Really Fast Deep Clone
 - 🐢 [premove](https://github.com/lukeed/premove) - A tiny (247B) utility to remove items recursively
 - ⚡️ [ms](https://github.com/zeit/ms) - Use this package to easily convert various time formats to milliseconds.
 - [semiver](https://github.com/lukeed/semiver) - A tiny (153B) utility to compare semver strings.
-- [matchit](https://github.com/lukeed/matchit) - Quickly parse & match URLs
 - [estree-walker](https://github.com/Rich-Harris/estree-walker) - Traverse an ESTree-compliant AST
 - [sonic-boom](https://github.com/mcollina/sonic-boom) - Extremely fast utf8-only stream implementation to write to files and file descriptors.
 - [hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
@@ -80,4 +82,3 @@ You may want to take a look at these organizations, who produce quality packages
 - [node-watch](https://github.com/yuanchuan/node-watch#readme) - A wrapper and enhancements for fs.watch.
 - [bytes](https://github.com/visionmedia/bytes.js#readme) - node byte string parser
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema Validator. Supports draft-04/06/07 
-- [zup](https://github.com/mscdex/zup) - A simple, fast template engine for node.
