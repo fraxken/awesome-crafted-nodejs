@@ -1,5 +1,7 @@
 # awesome-crafted-nodejs
-Awesome list of well crafted Node.js packages.
+Awesome list of well crafted Node.js packages. Some others cool list that may help you:
+- https://github.com/bcoe/awesome-cross-platform-nodejs
+- https://github.com/lirantal/awesome-nodejs-security
 
 ## Why
 I created this repository to list all packages that was crafted with the goal of answering needs with less dependencies (and better performance if possible). Most of the time, it means that the package will rather meet very specific needs instead of bringing together a lot features in one package.
@@ -55,8 +57,9 @@ You may want to take a look at these organizations, who produce quality packages
 - [@slimio/wcwidth](https://github.com/SlimIO/wcwidth) - Fork of wcwidth.
 - [kleur](https://github.com/lukeed/kleur#readme) - The fastest Node.js library for formatting terminal text with ANSI colors~! (no dependencies).
 
-### Testing
+### Testing & Coverage
 - [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
+- [c8](https://github.com/bcoe/c8#readme) - Code-coverage using Node.js' built in functionality that's compatible with Istanbul's reporters. Like nyc, c8 just magically works:
 
 ### Logging
 - [pino](https://github.com/pinojs/pino) - Very low overhead Node.js logger, inspired by Bunyan.
