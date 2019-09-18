@@ -58,6 +58,7 @@ You may want to take a look at these organizations, who produce quality packages
 - [@slimio/pretty-json](https://github.com/SlimIO/Pretty-JSON) - Stdout JSON in your terminal with colors and syntax close to yml.
 - [@slimio/wcwidth](https://github.com/SlimIO/wcwidth) - Fork of wcwidth.
 - [kleur](https://github.com/lukeed/kleur#readme) - The fastest Node.js library for formatting terminal text with ANSI colors~! (no dependencies).
+- [cliui](https://github.com/yargs/cliui#readme) - easily create complex multi-column command-line-interfaces.
 
 ### Testing & Coverage
 - [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
