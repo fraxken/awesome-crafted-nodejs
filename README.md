@@ -83,3 +83,4 @@ You may want to take a look at these organizations, who produce quality packages
 - [node-watch](https://github.com/yuanchuan/node-watch#readme) - A wrapper and enhancements for fs.watch.
 - [bytes](https://github.com/visionmedia/bytes.js#readme) - node byte string parser
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema Validator. Supports draft-04/06/07 
+- [watch-my-app](https://github.com/fraxken/watchapp) - Light alternative to nodemon
