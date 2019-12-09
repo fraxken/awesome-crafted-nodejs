@@ -57,6 +57,7 @@ You may want to take a look at these organizations, who produce quality packages
 - [@slimio/stdin](https://github.com/SlimIO/stdin) - Node.js light, interactive and elegant input crafted for REPL experience.
 - [@slimio/pretty-json](https://github.com/SlimIO/Pretty-JSON) - Stdout JSON in your terminal with colors and syntax close to yml.
 - [@slimio/wcwidth](https://github.com/SlimIO/wcwidth) - Fork of wcwidth.
+- [@slimio/json-diff](https://github.com/SlimIO/json-diff) - Stdout difference from two JS Objects in the TTY
 - [kleur](https://github.com/lukeed/kleur#readme) - The fastest Node.js library for formatting terminal text with ANSI colors~! (no dependencies).
 - [cliui](https://github.com/yargs/cliui#readme) - easily create complex multi-column command-line-interfaces.
 
