@@ -69,6 +69,7 @@ You may want to take a look at these organizations, who produce quality packages
 
 ### Others
 
+- [wrr](https://github.com/lukeed/wrr) - A tiny (148B) weighted round robin utility
 - [ework](https://github.com/zakodium/ework#readme) - Execute your tasks on another thread or in parallel, with a simple to use and cross-platform (Node.js >=10 and modern browsers) API.
 - [flydrive](https://github.com/Slynova-Org/flydrive) - Flexible and Fluent framework-agnostic driver based system to manage storage in Node.js
 - [dotenv](https://github.com/motdotla/dotenv#readme) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
