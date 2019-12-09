@@ -69,6 +69,7 @@ You may want to take a look at these organizations, who produce quality packages
 
 ### Others
 
+- [ework](https://github.com/zakodium/ework#readme) - Execute your tasks on another thread or in parallel, with a simple to use and cross-platform (Node.js >=10 and modern browsers) API.
 - [dotenv](https://github.com/motdotla/dotenv#readme) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
 - [@zeit/git-hooks](https://github.com/zeit/git-hooks) - No nonsense Git hook management with 0 dep.
 - [rfdc](https://github.com/davidmarkclements/rfdc#readme) - Really Fast Deep Clone
