@@ -69,25 +69,27 @@ You may want to take a look at these organizations, who produce quality packages
 ### Logging
 - [pino](https://github.com/pinojs/pino) - Very low overhead Node.js logger, inspired by Bunyan.
 
+### Tooling & dev
+
+- [dotenv](https://github.com/motdotla/dotenv#readme) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
+- [@zeit/git-hooks](https://github.com/zeit/git-hooks) - No nonsense Git hook management with 0 dep.
+- [watch-my-app](https://github.com/fraxken/watchapp) - Light alternative to nodemon
+
 ### Others
 
 - [@lukeed/uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (v4) generator for Node and the browser
 - [wrr](https://github.com/lukeed/wrr) - A tiny (148B) weighted round robin utility
 - [ework](https://github.com/zakodium/ework#readme) - Execute your tasks on another thread or in parallel, with a simple to use and cross-platform (Node.js >=10 and modern browsers) API.
 - [flydrive](https://github.com/Slynova-Org/flydrive) - Flexible and Fluent framework-agnostic driver based system to manage storage in Node.js
-- [dotenv](https://github.com/motdotla/dotenv#readme) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
-- [@zeit/git-hooks](https://github.com/zeit/git-hooks) - No nonsense Git hook management with 0 dep.
 - [rfdc](https://github.com/davidmarkclements/rfdc#readme) - Really Fast Deep Clone
 - 🐢 [premove](https://github.com/lukeed/premove) - A tiny (247B) utility to remove items recursively
 - ⚡️ [ms](https://github.com/zeit/ms) - Use this package to easily convert various time formats to milliseconds.
 - [semiver](https://github.com/lukeed/semiver) - A tiny (153B) utility to compare semver strings.
 - [estree-walker](https://github.com/Rich-Harris/estree-walker) - Traverse an ESTree-compliant AST
 - [sonic-boom](https://github.com/mcollina/sonic-boom) - Extremely fast utf8-only stream implementation to write to files and file descriptors.
-- [hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
 - [@slimio/lock](https://github.com/SlimIO/Lock) - Node.js Semaphore like.
 - [zen-observable](https://github.com/zenparsing/zen-observable) - An Implementation of Observables for Javascript
 - [node-watch](https://github.com/yuanchuan/node-watch#readme) - A wrapper and enhancements for fs.watch.
 - [bytes](https://github.com/visionmedia/bytes.js#readme) - node byte string parser
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema Validator. Supports draft-04/06/07
 - [isolated-vm](https://github.com/laverdet/isolated-vm) - Access to multiple isolates in nodejs
-- [watch-my-app](https://github.com/fraxken/watchapp) - Light alternative to nodemon
