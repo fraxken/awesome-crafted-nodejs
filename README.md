@@ -71,6 +71,7 @@ You may want to take a look at these organizations, who produce quality packages
 
 ### Others
 
+- [@lukeed/uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (v4) generator for Node and the browser
 - [wrr](https://github.com/lukeed/wrr) - A tiny (148B) weighted round robin utility
 - [ework](https://github.com/zakodium/ework#readme) - Execute your tasks on another thread or in parallel, with a simple to use and cross-platform (Node.js >=10 and modern browsers) API.
 - [flydrive](https://github.com/Slynova-Org/flydrive) - Flexible and Fluent framework-agnostic driver based system to manage storage in Node.js
