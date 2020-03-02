@@ -63,6 +63,7 @@ You may want to take a look at these organizations, who produce quality packages
 
 ### Testing & Coverage
 - [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
+- [baretest](https://github.com/volument/baretest) - An extremely fast and simple JavaScript test runner.
 - [c8](https://github.com/bcoe/c8#readme) - Code-coverage using Node.js' built in functionality that's compatible with Istanbul's reporters. Like nyc, c8 just magically works:
 
 ### Logging
