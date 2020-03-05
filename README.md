@@ -61,6 +61,7 @@ You may want to take a look at these organizations, who produce quality packages
 - [@slimio/json-diff](https://github.com/SlimIO/json-diff) - Stdout difference from two JS Objects in the TTY
 - [kleur](https://github.com/lukeed/kleur#readme) - The fastest Node.js library for formatting terminal text with ANSI colors~! (no dependencies).
 - [cliui](https://github.com/yargs/cliui#readme) - easily create complex multi-column command-line-interfaces.
+- [prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts
 
 ### Testing & Coverage
 - [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
@@ -78,6 +79,7 @@ You may want to take a look at these organizations, who produce quality packages
 
 ### Others
 
+- [tiny-glob](https://github.com/terkelg/tiny-glob) - Super tiny and ~350% faster alternative to node-glob
 - [@lukeed/uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (v4) generator for Node and the browser
 - [wrr](https://github.com/lukeed/wrr) - A tiny (148B) weighted round robin utility
 - [ework](https://github.com/zakodium/ework#readme) - Execute your tasks on another thread or in parallel, with a simple to use and cross-platform (Node.js >=10 and modern browsers) API.
