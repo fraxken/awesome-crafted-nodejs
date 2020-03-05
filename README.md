@@ -24,6 +24,7 @@ We recommend that you follow and support these people if you are looking for sim
 - [ljharb](https://github.com/ljharb)
 - [sindresorhus](https://github.com/sindresorhus)
 - [Harminder Virk](https://github.com/thetutlage)
+- [terkelg](https://github.com/terkelg)
 
 ## Legends
 - 🐢 There is alternative comming on Node.js core.
