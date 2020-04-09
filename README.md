@@ -77,6 +77,10 @@ You may want to take a look at these organizations, who produce quality packages
 - [@zeit/git-hooks](https://github.com/zeit/git-hooks) - No nonsense Git hook management with 0 dep.
 - [watch-my-app](https://github.com/fraxken/watchapp) - Light alternative to nodemon
 
+### i18n
+
+- [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in 292 bytes
+
 ### Others
 
 - [tiny-glob](https://github.com/terkelg/tiny-glob) - Super tiny and ~350% faster alternative to node-glob
@@ -96,3 +100,5 @@ You may want to take a look at these organizations, who produce quality packages
 - [bytes](https://github.com/visionmedia/bytes.js#readme) - node byte string parser
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema Validator. Supports draft-04/06/07
 - [isolated-vm](https://github.com/laverdet/isolated-vm) - Access to multiple isolates in nodejs
+- [heapify](https://github.com/luciopaiva/heapify) - The fastest JavaScript priority queue out there. Zero dependencies.
+- [ssri](https://github.com/npm/ssri#readme) - ssri, short for Standard Subresource Integrity, is a Node.js utility for parsing, manipulating, serializing, generating, and verifying Subresource Integrity hashes.
