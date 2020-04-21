@@ -63,6 +63,10 @@ You may want to take a look at these organizations, who produce quality packages
 - [cliui](https://github.com/yargs/cliui#readme) - easily create complex multi-column command-line-interfaces.
 - [prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts
 
+### Database
+
+- [postgres](https://github.com/porsager/postgres) - The Fastest full featured PostgreSQL client for Node.js 
+
 ### Testing & Coverage
 - [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
 - [baretest](https://github.com/volument/baretest) - An extremely fast and simple JavaScript test runner.
