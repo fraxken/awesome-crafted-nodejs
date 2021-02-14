@@ -87,6 +87,8 @@ You may want to take a look at these organizations, who produce quality packages
 
 ### Others
 
+- [denque](https://github.com/invertase/denque) - Double ended queue
+- [fast-async-zlib](https://github.com/hyperdivision/fast-async-zlib) - Speed up zlib operations by running them using the sync APIs but in a Worker
 - [tiny-glob](https://github.com/terkelg/tiny-glob) - Super tiny and ~350% faster alternative to node-glob
 - [@lukeed/uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (v4) generator for Node and the browser
 - [wrr](https://github.com/lukeed/wrr) - A tiny (148B) weighted round robin utility
